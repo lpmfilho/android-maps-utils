@@ -2,8 +2,6 @@
 .idea
 *.iml
 build
-bin
-gen
 local.properties
 .classpath
 .project
